@@ -1,0 +1,7 @@
+['food1', 'food2', ... and so on]
+What is your <question1>? My <question1> is <answer1>
+What is your <question2>? My <question2> is <answer2>
+What is your <question3>? My <question3> is <answer3>
+What is your <question4>? My <question4> is <answer4>
+['NY team 1', 'NY team 2' ... and so on]
+['LA team 1', 'LA team 2' ... and so on]
